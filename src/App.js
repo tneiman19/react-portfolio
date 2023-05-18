@@ -1,8 +1,40 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Footer from "./components/Footer";
 
-function App() {
-  return <h1>React Portfolio</h1>;
-}
+const App = () => {
+  return (
+    <Router>
+      <div>
+        <Navbar />
+        <Routes>
+          <Route
+            path="/"
+            element={<Home />}
+          />
+          <Route
+            path="/about"
+            element={<About />}
+          />
+          <Route
+            path="/projects"
+            element={<Projects />}
+          />
+        </Routes>
+        <Footer />
+      </div>
+    </Router>
+  );
+};
+
+const Home = () => (
+  <div>
+    <h1>Welcome to the Home Page!</h1>
+    <p>Click on the links in the navbar to navigate.</p>
+  </div>
+);
 
 export default App;

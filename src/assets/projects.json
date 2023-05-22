@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Project Nexus",
+    "website": "https://project-nexus.herokuapp.com/",
+    "image": "https://github.com/tneiman19/project-nexus/blob/main/public/img/project-nexus-homepage.jpeg?raw=true",
+    "alt": "Image of Project Nexus Landing Page",
+    "description": "A website that caters to developers of all levels, providing them with a platform to connect, collaborate, and learn from each other. Project Nexus is a web-based application similar to Stack Overflow that allows users to ask questions, provide answers, and engage in discussions related to programming and software development. The website has a user registration and login system, a user profile page, a page for asking and answering questions, functionality, and a voting system to allow users to upvote or downvote questions and answers.",
+    "github": "https://github.com/tneiman19/project-nexus"
+
+  },
+  {
+    "id": 2,
+    "name": "Tech Blog",
+    "website": "https://tech-blog14.herokuapp.com/login",
+    "image": "https://github.com/tneiman19/tech-blog/blob/main/public/img/ScreenshotLogin.png?raw=true",
+    "alt": "Image of Project Nexus Landing Page",
+    "description": "This is a CMS-style blog site where developers can publish their blog posts and comment on other developers’ posts. It follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.",
+    "github": "https://github.com/tneiman19/tech-blog"
+  },
+  {
+    "id": 3,
+    "name": "Project Nexus",
+    "website": "https://project-nexus.herokuapp.com/",
+    "image": "https://github.com/tneiman19/project-nexus/blob/main/public/img/project-nexus-homepage.jpeg?raw=true",
+    "alt": "Image of Project Nexus Landing Page",
+    "description": "A website that caters to developers of all levels, providing them with a platform to connect, collaborate, and learn from each other. Project Nexus is a web-based application similar to Stack Overflow that allows users to ask questions, provide answers, and engage in discussions related to programming and software development. The website has a user registration and login system, a user profile page, a page for asking and answering questions, functionality, and a voting system to allow users to upvote or downvote questions and answers.",
+    "github": "https://github.com/tneiman19/project-nexus"
+
+  },
+  {
+    "id": 4,
+    "name": "Project Nexus",
+    "website": "https://project-nexus.herokuapp.com/",
+    "image": "https://github.com/tneiman19/project-nexus/blob/main/public/img/project-nexus-homepage.jpeg?raw=true",
+    "alt": "Image of Project Nexus Landing Page",
+    "description": "A website that caters to developers of all levels, providing them with a platform to connect, collaborate, and learn from each other. Project Nexus is a web-based application similar to Stack Overflow that allows users to ask questions, provide answers, and engage in discussions related to programming and software development. The website has a user registration and login system, a user profile page, a page for asking and answering questions, functionality, and a voting system to allow users to upvote or downvote questions and answers.",
+    "github": "https://github.com/tneiman19/project-nexus"
+
+  },
+  {
+    "id": 5,
+    "name": "Project Nexus",
+    "website": "https://project-nexus.herokuapp.com/",
+    "image": "https://github.com/tneiman19/project-nexus/blob/main/public/img/project-nexus-homepage.jpeg?raw=true",
+    "alt": "Image of Project Nexus Landing Page",
+    "description": "A website that caters to developers of all levels, providing them with a platform to connect, collaborate, and learn from each other. Project Nexus is a web-based application similar to Stack Overflow that allows users to ask questions, provide answers, and engage in discussions related to programming and software development. The website has a user registration and login system, a user profile page, a page for asking and answering questions, functionality, and a voting system to allow users to upvote or downvote questions and answers.",
+    "github": "https://github.com/tneiman19/project-nexus"
+
+  }
+]

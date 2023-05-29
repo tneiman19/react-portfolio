@@ -18,7 +18,7 @@ const Projects = () => {
             <i className="fa fa-github github-icon"></i> {/* GitHub Icon */}
           </a>
             </span></h1>
-
+          <br/>
           <a
             href={project.website}
             target="_blank"

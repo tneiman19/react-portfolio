@@ -28,6 +28,11 @@ const Navbar = () => {
             Projects
           </Link>
         </li>
+        <li>
+          <Link to="/contact" style={isActiveLink("/contact") ? styles.activeLink : styles.link}>
+            Contact
+          </Link>
+        </li>
       </ul>
       
     </nav>
@@ -68,6 +73,7 @@ const styles = {
   activeLink: {
     color: "blue",
     fontWeight: "bold",
+    textDecoration: 'none'
   },
 };
 

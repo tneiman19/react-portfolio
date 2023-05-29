@@ -3,7 +3,9 @@ import React from 'react';
 const Countdown = () => {
   return (
     <iframe 
-      src="https://countingdownto.com/w4/6Goz0ljG"
+      src="https://countingdownto.com/w4/6Goz0ljG"  
+      title="Countdown to gradution"
+      
       style={{
         position: 'fixed',
         top: 0,
@@ -14,6 +16,7 @@ const Countdown = () => {
         overflow: 'hidden',
         backgroundColor: '#FF8000',
         backgroundImage: 'linear-gradient(135deg, #FF8000, #FF0000)',
+       
       }}
       scrolling="no"
     ></iframe>

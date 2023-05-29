@@ -1,8 +1,8 @@
-# My React Portfolio
+# React Portfolio
 
 This is my personal portfolio website built using React. It showcases information about me, my projects, and provides a way to contact me.
 
-## Sections
+## Portfolio Sections
 
 ### About Me
 
@@ -18,14 +18,14 @@ The "Contact Me" section provides my contact information, including email addres
 
 ## Hosting
 
-The portfolio website is hosted on GitHub Pages, making it easily accessible to anyone with an internet connection. You can visit the live website at [your-username.github.io/portfolio](https://your-username.github.io/portfolio).
+The portfolio website is hosted on GitHub Pages, making it easily accessible to anyone with an internet connection. You can visit the live website at [https://tneiman19.github.io/react-portfolio](https://tneiman19.github.io/react-portfolio).
 
 ## Installation and Setup
 
 To run the portfolio website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
-2. Navigate to the project directory: `cd portfolio`
+1. Clone the repository: `git clone https://github.com/tneiman19/react-portfolio.git`
+2. Navigate to the project directory: `cd react-portfolio`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the website.
@@ -34,10 +34,13 @@ To run the portfolio website locally, follow these steps:
 
 If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. Your contributions are welcome!
 
-## License
+## License  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
 
 ---
 
 Thank you for visiting my portfolio website! I hope you find it informative and engaging. If you have any questions or would like to collaborate, please don't hesitate to reach out to me.
+
+[![Screenshot of About Page](/src/assets/images/about.png)](https://tneiman19.github.io/react-portfolio/#/)
+[![Screenshot of Projects Page](/src/assets/images/projects.png)](https://tneiman19.github.io/react-portfolio/#/projects)

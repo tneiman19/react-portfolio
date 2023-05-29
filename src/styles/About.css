@@ -26,3 +26,15 @@
     padding-left: 15px;
   }
   
+  @media (max-width: 576px) {
+    .about-container {
+      padding-top: 12rem;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .about-text {
+      padding-top: 15px;
+    }
+  
+  }

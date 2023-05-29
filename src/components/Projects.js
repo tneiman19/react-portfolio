@@ -1,21 +1,25 @@
 import React from "react";
-import projectsData from "../assets/projects.json";
-
+import projectsData from "../assets/projects.json"; // Import the project data from JSON
+import "../styles/Projects.css"; // Import a separate CSS file for custom styles
 
 const Projects = () => {
-  console.log(JSON.stringify(projectsData))
   return (
-    <div>
-      <h1>Projects Page</h1>
-      <p>This is the projects page content.</p>
-
+    <div className="projects-container">
       {projectsData.map((project) => (
-        <div key={project.id}>
-          <p>{project.name}</p>
-          <img src={project.image} alt={project.alt} />
-          <br/>
-          <p>{project.description}</p>
-          <a target="blank" href={project.github}>View Project On GitHub</a>
+        <div className="project-card" key={project.id}>
+          <h1 className="project-name">{project.name}</h1>
+          <a
+            href={project.website}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={project.image}
+              alt={project.title}
+              className="project-image"
+            />
+          </a>
+          <p className="project-title">{project.description}</p>
         </div>
       ))}
     </div>
@@ -23,4 +27,3 @@ const Projects = () => {
 };
 
 export default Projects;
-

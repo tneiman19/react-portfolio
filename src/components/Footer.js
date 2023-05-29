@@ -7,7 +7,7 @@ const styles = {
     backgroundColor: '#2a607c',
     color: 'white',
     width: '100%',
-    height: '30px',
+    height: '50px',
     borderTop: '10px solid lightgray',
   },
 };
@@ -17,7 +17,7 @@ const styles = {
 const Footer = () => {
   return (
     <footer style={styles.footer}>
-      <p>This is the footer content.</p>
+      <p>@SteveN 2023</p>
     </footer>
   );
 };

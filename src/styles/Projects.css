@@ -47,4 +47,15 @@
     font-weight: bold;
   }
 
+  .github-link {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    transition: transform 0.3s;
+    color:  #2a607c;
+
+  }
   
+  .github-link:hover {
+    transform: scale(1.3);
+  }

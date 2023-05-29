@@ -8,7 +8,7 @@ const About = () => {
     <div className="about-container">
       <div className="image-container">
         <img
-          src="https://github.com/tneiman19/Rutgers-Module2/blob/main/assets/images/MyPhoto.jpg?raw=true"
+          src="https://avatars.githubusercontent.com/u/83563310?v=4"
           alt="A photo of the Author"
           className="about-image"
         />

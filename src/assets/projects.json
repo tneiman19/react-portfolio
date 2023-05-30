@@ -47,5 +47,15 @@
     "description": "Our Text Editor PWA (Progressive Web Application) isa versatile tool designed for both note-taking and code writing. With our intuitive interface, you can unleash your creativity by writing notes in a code-styled format or practice your coding skills with ease. Our application offers a built-in code editor that supports various programming languages, empowering you to experiment, refine your code, and take your skills to the next level. Although the site is currently hosted on Heroku and may be turned off temporarily, we encourage you to check back soon to explore the rich features and functionalities of our Text Editor PWA. Stay tuned for updates, and thank you for considering our application as your go-to tool for text editing and coding adventures.",
     "github": "https://github.com/tneiman19/PWA-Text-Editor"
 
+  },
+  {
+    "id": 6,
+    "name": "Password Generator",
+    "website": "https://tneiman19.github.io/Rutgers-Module3/",
+    "image": "https://github.com/tneiman19/Rutgers-Module3/blob/main/assets/images/03-javascript-homework-demo.png?raw=true",
+    "alt": "Image of Project Nexus Landing Page",
+    "description": "Welcome to our Password Generator, an essential tool to ensure the security and strength of your passwords. Our user-friendly interface prompts you with JavaScript alerts, allowing you to customize your password based on various criteria. You can specify the desired number of characters and choose whether to include uppercase letters, lowercase letters, numbers, and special characters in your password. By tailoring these options to your preferences, you can generate robust and unique passwords that meet your specific security requirements.",
+    "github": "https://github.com/tneiman19/Rutgers-Module3"
+
   }
 ]

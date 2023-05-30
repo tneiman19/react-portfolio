@@ -20,11 +20,13 @@
     color: #333;
     transition: transform 0.3s, text-decoration-color 0.3s;
     color: #2a607c;
+   
   }
   
 
   .contact-link:hover {
     transform: translateY(-5px);
+     animation: bounce .5s infinite alternate;
 
   }
   
@@ -44,18 +46,38 @@
   }  
 
   .resumeButton {
-    color: #2a607c;
+    background-color: #2a607c;
+    color: aliceblue;
     text-decoration: none;
-    transition: transform 0.3s;
+    transition: transform 0.5s;
+    animation: bounce .5s infinite alternate;
+    padding: .2rem;
+    border-radius: 10%;
+    margin-top: 1em;
   }
   
   .resumeButton:hover {
     transform: translateY(-5px);
-    background-color: #2a607c;
-    color: azure;
+    animation: none; /* Disable animation on hover */
+    background-color: aliceblue;
+    color: #2a607c;
   }
   
-
+  @keyframes bounce {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-5px);
+    }
+  }
+  
+@media (max-width: 800px) {
+  .contact-links {
+    flex-direction: column;
+    align-items: center;
+  }
+}
 
 
 

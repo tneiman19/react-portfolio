@@ -7,7 +7,6 @@
     "alt": "Image of Project Nexus Landing Page",
     "description": "A website that caters to developers of all levels, providing them with a platform to connect, collaborate, and learn from each other. Project Nexus is a web-based application similar to Stack Overflow that allows users to ask questions, provide answers, and engage in discussions related to programming and software development. The website has a user registration and login system, a user profile page, a page for asking and answering questions, functionality, and a voting system to allow users to upvote or downvote questions and answers.",
     "github": "https://github.com/tneiman19/project-nexus"
-
   },
   {
     "id": 2,
@@ -26,7 +25,6 @@
     "alt": "Image of Project Nexus Landing Page",
     "description": "This website is a platform designed to help new developers embark on their programming journey and gain familiarity with JavaScript through a fun and engaging learning experience. Our site is specifically tailored to assist beginners in their quest to master JavaScript, providing a supportive environment to enhance their skills. Whether you're just starting out or looking to expand your knowledge, we offer a range of resources and interactive exercises to make your learning process enjoyable. Join us today and unlock the world of JavaScript in a dynamic and exciting way. To use this quiz, please navigate to the GitHub Repo to clone the code and run on your local host.",
     "github": "https://github.com/tneiman19/Rutgers-Module4"
-
   },
   {
     "id": 4,
@@ -36,7 +34,6 @@
     "alt": "Image of Project Nexus Landing Page",
     "description": "This task and note organizer is a convenient tool to help you stay organized and manage your daily tasks effectively. Our user-friendly interface provides a calendar-like page where you can easily enter and organize different tasks and notes. Each hour is color-coded, indicating whether it has passed, represents the current hour, or is a future hour, giving you a visual representation of your schedule at a glance. Although the application is currently turned off as it is hosted on Heroku, we invite you to check back soon to experience the seamless functionality and streamline your productivity. Stay tuned for updates, and thank you for considering our task and note organizer to simplify your day-to-day life.",
     "github": "https://github.com/tneiman19/Rutgers-Module11"
-
   },
   {
     "id": 5,
@@ -46,7 +43,6 @@
     "alt": "Image of Project Nexus Landing Page",
     "description": "Our Text Editor PWA (Progressive Web Application) isa versatile tool designed for both note-taking and code writing. With our intuitive interface, you can unleash your creativity by writing notes in a code-styled format or practice your coding skills with ease. Our application offers a built-in code editor that supports various programming languages, empowering you to experiment, refine your code, and take your skills to the next level. Although the site is currently hosted on Heroku and may be turned off temporarily, we encourage you to check back soon to explore the rich features and functionalities of our Text Editor PWA. Stay tuned for updates, and thank you for considering our application as your go-to tool for text editing and coding adventures.",
     "github": "https://github.com/tneiman19/PWA-Text-Editor"
-
   },
   {
     "id": 6,
@@ -56,6 +52,14 @@
     "alt": "Image of Project Nexus Landing Page",
     "description": "Welcome to our Password Generator, an essential tool to ensure the security and strength of your passwords. Our user-friendly interface prompts you with JavaScript alerts, allowing you to customize your password based on various criteria. You can specify the desired number of characters and choose whether to include uppercase letters, lowercase letters, numbers, and special characters in your password. By tailoring these options to your preferences, you can generate robust and unique passwords that meet your specific security requirements.",
     "github": "https://github.com/tneiman19/Rutgers-Module3"
-
+  },
+  {
+    "id": 7,
+    "name": "toogle",
+    "website": "https://toogle.herokuapp.com/",
+    "image": "https://github.com/arlindo2017/toogle/blob/master/client/src/images/toogle-create-order.gif?raw=true",
+    "alt": "Image of Project Nexus Landing Page",
+    "description": "toogle is an online platform that connects users with service providers for various services. toogle allows users to browse different categories of services, view service details, and make service bookings. Service providers can showcase their services, manage their availability, and interact with users.toogle is an online platform that serves as a convenient and efficient medium for connecting users with a wide range of service providers. The platform offers an extensive selection of services across various categories, providing users with the ability to explore and access the services they need.",
+    "github": "https://github.com/arlindo2017/toogle"
   }
 ]

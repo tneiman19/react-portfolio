@@ -27,6 +27,11 @@ const Navbar = () => {
           </Link>
         </li> */}
         <li>
+          <Link to="/credentials" style={isActiveLink("/credentials") ? styles.activeLink : styles.link}>
+            Credentials
+          </Link>
+        </li>
+        <li>
           <Link to="/projects" style={isActiveLink("/projects") ? styles.activeLink : styles.link}>
             Projects
           </Link>

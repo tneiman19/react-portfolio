@@ -7,6 +7,7 @@ import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 import Countdown from "./components/Countdown";
 import Contact from "./components/Contact";
+import Credentials from "./components/Credentials";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
           {/* <Route path="/" element={<Home />} /> */}
           <Route path="/" element={<About />} />
           {/* <Route path="/about" element={<About />} /> */}
+          <Route path="/credentials" element={<Credentials />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
